@@ -2,6 +2,8 @@
 
 
 1. If Data is in Linear Form
+        
+        
           Finding Outliers or Replacing Outliers using : Upper/Lower bound (2) , Z-score (2)
 
           1)Upper bound :  x.mean() + 3* x.std() , Lower bound : x.mean() - 3* x.std()
