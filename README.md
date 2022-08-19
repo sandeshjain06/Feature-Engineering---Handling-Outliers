@@ -13,7 +13,7 @@ Techniques for Outlier Detection and Removal
 If Data Distribution is in Linear Form
         
         
-          Finding Outliers or Replacing Outliers using : Upper/Lower bound (2) , Z-score (2)
+          Finding Outliers or Replacing Outliers using : Upper/Lower bound (2) , Z-score (1)
 
           1)Upper bound :  x.mean() + 3* x.std() , Lower bound : x.mean() - 3* x.std()
 
