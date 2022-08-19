@@ -10,7 +10,7 @@ Techniques for Outlier Detection and Removal
 4. Winsorization Technique 
 
 
-1. If Data Distribution is in Linear Form
+If Data Distribution is in Linear Form
         
         
           Finding Outliers or Replacing Outliers using : Upper/Lower bound (2) , Z-score (2)
@@ -23,7 +23,7 @@ Techniques for Outlier Detection and Removal
 
 
 
-2. If Data Distribution is in Non-Linear Form 
+If Data Distribution is in Non-Linear Form 
 
         Finding Outliers or Replacing Outliers using : IQR  (2)
         1) IQR = 75percentile - 25percentile  
@@ -31,7 +31,8 @@ Techniques for Outlier Detection and Removal
         3) Lower bound = 25percentile - 1.5IQR
 
 
-3. Winsorization
+
+Winsorization
  
         Explicitly we can define the Upperlimit and lowerlimit .
 
