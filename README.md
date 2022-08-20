@@ -4,8 +4,8 @@
 Techniques for Outlier Detection and Removal
 
 
-1. Z-Score Treatment
-2. IQR based filtering
+1. Z-Score Treatment        :    x-mean / std 
+2. IQR based filtering      :    75percentile - 25percentile 
 3. Percentile
 4. Winsorization Technique 
 
